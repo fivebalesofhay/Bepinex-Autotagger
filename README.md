@@ -6,6 +6,7 @@ This mod was made using version 0.5.1. It will likely work on every version past
 To Install:
 <ul>
 <li><a href="https://docs.bepinex.dev/articles/user_guide/installation/index.html">Install Bepinex into your copy of The Bibites</a> (Don't forget to run the game once to generate the config files.)</li>
+<li><a href="https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2">Note: the latest stable build of Bepinex as of this mod is here.</a></li>
 <li>Download Autotagger.dll and place it in the BepInEx/plugins folder.</li>
 </ul>
 
